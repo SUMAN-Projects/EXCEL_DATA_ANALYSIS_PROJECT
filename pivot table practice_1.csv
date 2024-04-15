@@ -1,0 +1,25 @@
+﻿RNM School Data,,,,,,,,,,,
+,,,,,,,,,,,
+Name,Gender,Age,Class,House,Unit Test 1,Unit Test 2,Final Test,Email,NAME_BACK,,
+Sam,M,11,6,Agni,91,81,94,Sam@gmail.com,Sam@gmail.com,Sam,gmail.com
+Vidya,F,11,6,Vayu,88,90,92,Vidya@gmail.com,Vidya@gmail.com,Vidya,gmail.com
+Arjun,M,11,5,Vayu,82,83,91,Arjun@gmail.com,Arjun@gmail.com,Arjun,gmail.com
+Madhav,M,12,7,Jal,86,92,89,Madhav@gmail.com,Madhav@gmail.com,Madhav,gmail.com
+Vrinda,F,14,8,Agni,91,96,98,Vrinda@gmail.com,Vrinda@gmail.com,Vrinda,gmail.com
+Indu,F,14,8,Vayu,90,86,89,Indu@gmail.com,Indu@gmail.com,Indu,gmail.com
+Gopal,M,14,8,Bhoomi,70,75,79,Gopal@gmail.com,Gopal@gmail.com,Gopal,gmail.com
+Keshav,M,15,9,Agni,87,89,96,Keshav@gmail.com,Keshav@gmail.com,Keshav,gmail.com
+Varun,M,15,9,Vayu,87,89,95,Varun@gmail.com,Varun@gmail.com,Varun,gmail.com
+Champa,F,15,8,Jal,81,78,88,Champa@gmail.com,Champa@gmail.com,Champa,gmail.com
+Gopi,F,16,10,Agni,88,92,96,Gopi@gmail.com,Gopi@gmail.com,Gopi,gmail.com
+Sudevi,F,16,10,Jal,81,80,87,Sudevi@gmail.com,Sudevi@gmail.com,Sudevi,gmail.com
+Visakha,F,16,10,Bhoomi,70,87,85,Visakha@gmail.com,Visakha@gmail.com,Visakha,gmail.com
+Abhimanyu,M,16,10,Bhoomi,84,79,81,Abhimanyu@gmail.com,Abhimanyu@gmail.com,Abhimanyu,gmail.com
+Hari,M,16,10,Bhoomi,82,81,80,Hari@gmail.com,Hari@gmail.com,Hari,gmail.com
+RNM,M,16,10,Agni,86,81,77,RNM@gmail.com,RNM@gmail.com,RNM,gmail.com
+Lalita,F,17,10,Vayu,70,90,92,Lalita@gmail.com,Lalita@gmail.com,Lalita,gmail.com
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,##to put the filter option-==> cntrl+shift+L,,,,
+,,,,,,,##to make it table==> cntrl+t,,,,
