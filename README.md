@@ -1,3 +1,3 @@
 # EXCEL_DATA_ANALYSIS_PROJECT
-Using basic and advanced Excel data analysis formulas creating a Dynamic Dashboard with a Sales organization data
-Here I am doing the Data Analysis of a Sales company with Product detail dataset
+Using basic and advanced Excel Data Analysis formulas to create a Dynamic Dashboard with a Sales organization data. I have used the VLOOKUP/XLOOKUP, HLOOKUP, IFS, COUNTIFS,SUM,AVG and many others formulas to craete this interactive dashboard.
+
